@@ -1,0 +1,64 @@
+.main{
+      text-align :center;
+      justify-content:center;
+      display:flex;
+      padding:20px;
+      background-color: grey;
+
+}
+. submain(
+  display:flex;
+  justify-content:center;
+   height:155px;
+   width:75%
+   padding-top:30px;
+   border-radius:60px;
+   background-color:white;
+)
+.imags{
+  padding-top:20px;
+  justify-content:center;
+  display:flex;
+}
+.continer-image {
+  background-color:green;
+   border-radius:150px;
+   align-items:center;
+   display:flex;
+   height:115px;
+   width:115px;
+}
+.profile{
+  height:100px;
+  width:100px;
+  border-radius:130px;
+}
+input{
+  weidth:120px;
+  height:120px;
+  border-radius:140px;
+}
+.email
+{
+  height:25px;
+  width:25px;
+  possition:absolute;
+  padding:16px;
+}
+.pass
+{
+  height:26px;
+  width:26px;
+  possition:absolute;
+  padding:16px;
+}
+.name{
+  padding-left:20px;
+  font-size:20px;
+}
+
+
+
+
+
+
